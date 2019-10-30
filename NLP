@@ -3,6 +3,6 @@ https://github.com/kidden/nlp4han
 2 ** 中文自然语言处理相关资料：大量资料（fork1k多 ** 
 https://github.com/sladesha/Awesome-Chinese-NLP
 
-
 3NLP，DL的各种模型
 https://github.com/graykode/nlp-tutorial
+（NNLM，Word2Vec，TextCNN，TextRNN，TextLSTM、Bi-LSTM	，Seq2Seq，Seq2Seq with Attention，Bi-LSTM with Attention，Transformer，Greedy Decoder Transformer，BERT
