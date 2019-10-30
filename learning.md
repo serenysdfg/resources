@@ -1,3 +1,6 @@
+###  kaggle等一些方案和技巧学习 ing
+https://github.com/dayeren/Kaggle_Competition_Treasure
+
 1深度学习500问（优秀，fork>10k）书：以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述
 https://github.com/scutan90/DeepLearning-500-questions
 
@@ -6,3 +9,21 @@ https://github.com/scutan90/DeepLearning-500-questions
 
 3黄海广博士：数据科学的笔记以及资料搜集，目前尚在更新，部分内容来源于github搜集
 https://github.com/fengdu78/Data-Science-Notes
+
+42018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
+https://github.com/fighting41love/Algorithm_Interview_Notes-Chinese
+5：17-18年笔试互联网公司招聘算法笔试题(详细解答)
+https://github.com/Aleczhang13/Internet-Recruiting-Algorithm-Problems
+
+6、tensorflow练习
+https://github.com/sladesha/tensorflow_practice
+
+
+
+7、黄海广博士：deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
+
+ https://github.com/serenysdfg/deeplearning_ai_books 
+
+8机器学习相关资料
+
+ https://github.com/ljpzzz/machinelearning 
