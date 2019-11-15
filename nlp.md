@@ -25,3 +25,21 @@ https://github.com/graykode/nlp-tutorial
 6、 需要从文本中抽取结构化信息，用到了很多github上的包整理
 
  https://github.com/fighting41love/funNLP 
+
+7、 NLP四大任务类型：分类、序列标注、文本匹配、文本生成  复旦实验室 五个练习 上手
+
+ https://github.com/FudanNLP/nlp-beginner 
+
+
+
+
+
+ https://blog.csdn.net/jdbc/article/details/48206417 （泰迪杯比赛总结--关于NLP的资源
+
+
+
+11.12
+
+ NLP入门的代码练习库，该仓库目前在Github上已经获得3k+个sta 
+
+ https://github.com/graykode/nlp-tutorial 

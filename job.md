@@ -7,3 +7,9 @@ https://github.com/scutan90/interview_internal_reference
 
  https://github.com/apachecn/awesome-algorithm 
 
+ https://github.com/luliyucoordinate/Leetcode （完整1000多道
+
+3、面试interview = 简历指南 + LeetCode + Kaggle
+
+ https://github.com/apachecn/Interview 
+

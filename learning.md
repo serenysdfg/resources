@@ -1,6 +1,11 @@
 ###  kaggle等一些方案和技巧学习 ing
 https://github.com/dayeren/Kaggle_Competition_Treasure
 
+
+0优秀资源
+
+ https://github.com/apachecn/Interview 
+
 1深度学习500问（优秀，fork>10k）书：以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述
 https://github.com/scutan90/DeepLearning-500-questions
 
@@ -27,3 +32,13 @@ https://github.com/sladesha/tensorflow_practice
 8机器学习相关资料
 
  https://github.com/ljpzzz/machinelearning 
+
+
+
+sql：11.5
+
+ https://sleele.com/2019/01/23/50道sql练习题mysql版，答案以及详解/ 
+ 
+ 
+ 8推荐与计算广告相关的论文呢
+https://github.com/wzhe06/Ad-papers
