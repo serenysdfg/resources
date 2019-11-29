@@ -12,8 +12,7 @@ https://github.com/scutan90/DeepLearning-500-questions
 2吴恩达老师的机器学习课程个人笔记(fork>5k)
 包括机器学习统计学习方法，代码等
 
-3黄海广博士：数据科学的笔记以及资料搜集，目前尚在更新，部分内容来源于github搜集
-https://github.com/fengdu78/Data-Science-Notes
+
 
 42018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
 https://github.com/fighting41love/Algorithm_Interview_Notes-Chinese
